@@ -21,3 +21,4 @@ To get started with this QR code generator, follow these steps:
 
 4. Download the generated QR codes for your use.
 
+![QR generator]('https://i.imgur.com/6Xqgwhq.jpg')
