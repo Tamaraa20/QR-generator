@@ -17,7 +17,7 @@ To get started with this QR code generator, follow these steps:
 
 2. Open the **index.html** file in a web browser.
 
-3. Use the generator to create QR codes with your desired data and settings.
+3. Use the generator to create QR codes with your data and settings.
 
 4. Download the generated QR codes for your use.
    
