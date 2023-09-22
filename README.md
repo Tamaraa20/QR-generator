@@ -21,6 +21,6 @@ To get started with this QR code generator, follow these steps:
 
 4. Download the generated QR codes for your use.
    
-![exemple](https://github.com/Tamaraa20/QR-generator/assets/143545220/91db8ff0-82f0-4942-94ee-f5e65f7d8373)
+You can try the live demo: https://tamaraa20.github.io/QR-generator/
 
 
